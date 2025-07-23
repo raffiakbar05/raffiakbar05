@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raffiakbar05&label=Profile%20views&color=0e75b6&style=flat" alt="raffiakbar05" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raffiakbar05" alt="raffiakbar05" /></a> </p>
-
 - 🔭 I’m currently studying on **SMK TELKOM SIDOARJO**
 
 - 🌱 I’m currently learning **Frontend developer**
 
-- 👯 I’m looking to collaborate on [https://github.com/raffiakbar05/project_pm2.git](https://github.com/raffiakbar05/project_pm2.git)
+- 👯 I’m looking to collaborate on [https://github.com/raffiakbar05](https://github.com/raffiakbar05)
 
-- 💬 Ask me about **figma UI/UX**
+- 💬 Ask me about **figma UI/UX, Frontend**
 
 - 📫 How to reach me **akbarbaihaqy0@gmail.com**
 
